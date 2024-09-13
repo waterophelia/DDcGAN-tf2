@@ -16,4 +16,4 @@ cd ddcgan-tensorflow2
 pip install -r requirements.txt
 ```
 
-This implementation is based on the original DDcGAN paper [provide citation].
+This implementation is based on the original [DDcGAN paper](https://ieeexplore.ieee.org/abstract/document/9031751).
